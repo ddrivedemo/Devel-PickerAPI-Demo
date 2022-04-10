@@ -6,7 +6,7 @@
 ```
 トップ
 │
-├ picker_sample.js .. サンプルコード
+├ pickerapi_demo.js .. サンプルコード
 │
 └ README.md .. このファイル
 ```
